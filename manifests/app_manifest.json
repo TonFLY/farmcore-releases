@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.4.1",
+  "latestVersion": "1.5.0",
   "minimumVersion": "1.4.1",
   "mandatory": true,
-  "downloadUrl": "https://github.com/TonFLY/farmcore-releases/releases/download/v1.4.1/FarmCore-1.4.1-win-x64.zip",
-  "sha256": "c49e023487d25eea177623593f8cdfe67b44eee4791f2c63255787df87b5529a",
-  "notes": "FarmCore 1.4.1"
+  "downloadUrl": "https://github.com/TonFLY/farmcore-releases/releases/download/v1.5.0/FarmCore-1.5.0-win-x64.zip",
+  "sha256": "75284a11fa51f2f1a3042767c5a981e207c7cb12fd2f99a161cdadc94ffba42d",
+  "notes": "FarmCore 1.5.0"
 }
